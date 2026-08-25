@@ -85,11 +85,68 @@ The dataset contains customer shopping behavior information, including customer 
 
 The project was completed in the following stages:
 
-### 1. Data Loading
+1. **Data Loading** – Loaded the dataset using Pandas.
+2. **EDA** – Explored data patterns, distributions, and relationships.
+3. **Data Cleaning** – Handled missing values, duplicates, and standardized columns.
+4. **SQL Analysis** – Answered business questions using SQL Server.
+5. **Power BI Dashboard** – Created an interactive dashboard to visualize key metrics.
+6. **Reporting** – Documented findings and business insights.
+7. **Presentation** – Created a project presentation using Gamma.
 
-The dataset was loaded into Python using Pandas.
+---
 
-```python
-import pandas as pd
+## Dashboard
 
-df = pd.read_csv("customer_shopping_behavior.csv")
+The Power BI dashboard analyzes:
+
+- Revenue and average purchase amount
+- Product and category performance
+- Customer demographics
+- Subscription behavior
+- Discount usage
+- Customer segments
+- Payment and shipping preferences
+
+---
+
+## Key Results
+
+The analysis helped identify:
+
+- High-performing products and categories
+- Customer spending patterns
+- Subscription and repeat-purchase behavior
+- Discount usage patterns
+- Revenue contribution by customer segments
+- Key factors influencing customer purchasing behavior
+
+---
+
+## Skills Demonstrated
+
+**Python | SQL | Power BI | Data Cleaning | EDA | Data Visualization | Customer Segmentation | Business Analysis | Data Storytelling**
+
+---
+
+## Project Structure
+
+```text
+Customer-Shopping-Behavior-Analysis/
+│
+├── python/
+├── sql/
+├── powerbi/
+├── report/
+├── presentation/
+└── README.md
+How to Run
+Open the Python notebook in Jupyter.
+Run the data cleaning and EDA steps.
+Execute the SQL queries in SQL Server Management Studio.
+Open the .pbix file in Power BI Desktop.
+Review the report and presentation for final insights.
+
+
+Author
+Puja Prajyot Patil
+Data Analyst | Python | SQL | Power BI
