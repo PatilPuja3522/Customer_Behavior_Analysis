@@ -139,12 +139,14 @@ Customer-Shopping-Behavior-Analysis/
 ├── report/
 ├── presentation/
 └── README.md
+
+
 How to Run
-Open the Python notebook in Jupyter.
-Run the data cleaning and EDA steps.
-Execute the SQL queries in SQL Server Management Studio.
-Open the .pbix file in Power BI Desktop.
-Review the report and presentation for final insights.
+1.Open the Python notebook in Jupyter.
+2.Run the data cleaning and EDA steps.
+3.Execute the SQL queries in SQL Server Management Studio.
+4.Open the .pbix file in Power BI Desktop.
+5.Review the report and presentation for final insights.
 
 
 Author
