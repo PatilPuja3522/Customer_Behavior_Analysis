@@ -131,25 +131,19 @@ The analysis helped identify:
 ## Project Structure
 
 Customer-Shopping-Behavior-Analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv
-│
-├── python/
-│   ├── customer_shopping_behavior.ipynb
-│
-├── sql/
-│   └── customer_shopping_behavior_analysis.sql
-│
-├── powerbi/
-│   └── Customer Behavior Dashboard.pbix
-│
-├── report/
-│   └── Bussiness Report of Customer_Shopping_Behavior_Analysis.rtf
-│
-├── presentation/
-│   └── Customer-Shopping-Behavior-Analysis.pptx
-│
+---
+├── data - customer_shopping_behavior.csv
+---
+├── python - customer_shopping_behavior.ipynb
+---
+├── sql - customer_shopping_behavior_analysis.sql
+---
+├── powerbi - Customer Behavior Dashboard.pbix
+---
+├── report - Bussiness Report of Customer_Shopping_Behavior_Analysis.rtf
+---
+├── presentation - Customer-Shopping-Behavior-Analysis.pptx
+---
 └── README.md
 
 ---
