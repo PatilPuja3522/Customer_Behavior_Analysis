@@ -130,6 +130,7 @@ The analysis helped identify:
 
 ## Project Structure
 
+```text
 Customer-Shopping-Behavior-Analysis/
 │
 ├── python/
@@ -140,7 +141,7 @@ Customer-Shopping-Behavior-Analysis/
 └── README.md
 
 ---
-How to Run
+## How to Run
 1.Open the Python notebook in Jupyter.
 2.Run the data cleaning and EDA steps.
 3.Execute the SQL queries in SQL Server Management Studio.
@@ -148,6 +149,6 @@ How to Run
 5.Review the report and presentation for final insights.
 
 ---
-Author
+## Author
 Puja Prajyot Patil
 Data Analyst | Python | SQL | Power BI
